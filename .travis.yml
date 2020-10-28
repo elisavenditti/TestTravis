@@ -4,8 +4,8 @@ jdk:
 
 addons:
     sonarcloud:
-        organization: elisavenditti
-        token: 0b38466858fc066c1e579b9ddda4ed512ead43c3
+        organization: "elisavenditti"
+        token: "0b38466858fc066c1e579b9ddda4ed512ead43c3"
 
 script: 
     -ant build
